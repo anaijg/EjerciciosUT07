@@ -38,6 +38,7 @@ public class Main {
             }
         }
 
+        sb.delete(0, 2);
         System.out.println("Hay un total de " + prestados + " libros prestados: " +sb);
     }
 
@@ -50,6 +51,7 @@ public class Main {
                 sb.append(", " + p.titulo);
             }
         }
+        sb.delete(0, 2);
         System.out.println("Hay un total de " + anteriores + " publicaciones anteriores a " + año + " los titulos son: " + sb);
     }
 }
