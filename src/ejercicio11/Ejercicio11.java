@@ -2,6 +2,8 @@ package ejercicio11;
 
 public class Ejercicio11 implements Relaciones{
     int a;
+    int b;
+
     @Override
     public boolean esMayor(Object b) {
         if (b instanceof Integer) {
