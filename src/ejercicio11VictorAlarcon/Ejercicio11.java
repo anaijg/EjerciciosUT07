@@ -1,4 +1,4 @@
-package ejercicio11;
+package ejercicio11VictorAlarcon;
 
 public class Ejercicio11 implements Relaciones{
     int a;

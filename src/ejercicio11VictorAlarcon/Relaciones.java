@@ -1,4 +1,4 @@
-package ejercicio11;
+package ejercicio11VictorAlarcon;
 
 public interface Relaciones {
     // Devuelve verdadero si a es mayor que b
