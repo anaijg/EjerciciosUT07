@@ -10,7 +10,7 @@ package Biblioteca;
  * Alcmacenamiento y gestión de libros y revistas en una biblioteca
  *
  */
-public class Publicacion {
+public abstract class Publicacion {
 
     // Atributos
     // código: almacena el código del libro/revista
