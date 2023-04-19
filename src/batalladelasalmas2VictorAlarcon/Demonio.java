@@ -1,4 +1,4 @@
-package batalladelasalmas2;
+package batalladelasalmas2VictorAlarcon;
 
 public class Demonio extends Incorporeo{
     private int bondad;
