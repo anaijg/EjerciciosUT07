@@ -9,6 +9,7 @@ package Biblioteca;
 /**
  * Alcmacenamiento y gestión de libros y revistas en una biblioteca
  *
+ *
  */
 public abstract class Publicacion {
 
